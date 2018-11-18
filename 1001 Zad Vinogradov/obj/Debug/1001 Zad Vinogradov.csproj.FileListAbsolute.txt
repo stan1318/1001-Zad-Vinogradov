@@ -1,0 +1,6 @@
+C:\Games\VS 2013\A lot of Projects\1001 Zad Vinogradov\1001 Zad Vinogradov\bin\Debug\1001 Zad Vinogradov.exe.config
+C:\Games\VS 2013\A lot of Projects\1001 Zad Vinogradov\1001 Zad Vinogradov\obj\Debug\1001 Zad Vinogradov.csprojResolveAssemblyReference.cache
+C:\Games\VS 2013\A lot of Projects\1001 Zad Vinogradov\1001 Zad Vinogradov\bin\Debug\1001 Zad Vinogradov.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad Vinogradov\1001 Zad Vinogradov\bin\Debug\1001 Zad Vinogradov.pdb
+C:\Games\VS 2013\A lot of Projects\1001 Zad Vinogradov\1001 Zad Vinogradov\obj\Debug\1001 Zad Vinogradov.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad Vinogradov\1001 Zad Vinogradov\obj\Debug\1001 Zad Vinogradov.pdb
